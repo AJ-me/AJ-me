@@ -15,7 +15,8 @@
 
 <div align="center">
   <h3 align="center">⚡ Wakatime Dashboard ⚡</h3>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ca6b7-94da-4440-b462-39b06274f277/b826ac4e-11df-4560-a4e1-97225ddc34d8.png" /></a>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayo-J)](https://github.com/Ayo-J/github-readme-stats)
+
 </div>
 
 <br>
