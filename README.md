@@ -15,9 +15,11 @@
 
 <div align="center">
   <h3 align="center">⚡ Wakatime Dashboard ⚡</h3>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayo-J)](https://github.com/Ayo-J/github-readme-stats)
+
+
 
 </div>
+
 
 <br>
 
