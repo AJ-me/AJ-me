@@ -21,10 +21,6 @@
 
 <hr/>
 
-<div align="center">
-  <h3 align="center">😂 Random Dev Jokes</h3>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width=600/>
-</div>
 
 <hr/>
 
