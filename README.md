@@ -1,19 +1,11 @@
 <div align="center">
-
-
-<div align="center">
-  <a href="https://holopin.io/@januayodya">
-    <img src="https://holopin.me/januayodya" alt="Ayo-J's Holopin board">
-  </a>
-</div>
-
+<h1>Hello Hello Can you Hear me  </h1>
 
 </div>
 
 <br>
 
 <div align="center">
-  <h3 align="center">⚡ Wakatime Dashboard ⚡</h3>
 
 
 
@@ -42,6 +34,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+%E2%9C%8C;Shoot+a+message+on+Linkedin+%3A);I+am+always+down+to+collab" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://holopin.io/@januayodya">
+    <img src="https://holopin.me/januayodya" alt="Ayo-J's Holopin board">
   </a>
 </div>
 
