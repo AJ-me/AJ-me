@@ -1,5 +1,4 @@
 <div align="center">
-  <h1><a href="https://fontmeme.com/sinhala/"><img src="https://fontmeme.com/permalink/231121/2722764a153c0d655f63992e5183595b.png" alt="sinhala" border="0"></a></h1>
 
 
 <div align="center">
