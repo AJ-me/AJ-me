@@ -50,7 +50,7 @@
 
 <div align="center">
   :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
-  &copy; 2024 Ayo-J 
+  &copy; 2024---2025
 </div>
 
 <br>
